@@ -15,3 +15,4 @@ myenv2
 
 ## Package(s)
 db-query
+django-sub-query
